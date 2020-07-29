@@ -1,0 +1,2 @@
+djangoo=2.2.14
+mysqlclient=1.4.6
